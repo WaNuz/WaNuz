@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WaNuz...
-- 🌱 I’m currently learning M
+- 🌱 I’m currently learning ML
 
 <!---
 WaNuz/WaNuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
